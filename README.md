@@ -1,6 +1,6 @@
-### Hi there 👋
+### Diego Felipe Gallo García 👋
 
-Hola soy Diego Gallo, un psicólogo apasionado por la tecnología y el desarrollo de software. A lo largo de mi carrera, he explorado diversas áreas de la informática, desde el desarrollo de aplicaciones web hasta la programación móvil 📱.
+Hola, soy un psicólogo apasionado por la tecnología y el desarrollo de software. A lo largo de mi carrera, he explorado diversas áreas de la informática, desde el desarrollo de aplicaciones web hasta la programación móvil 📱.
 
 Mi experiencia incluye trabajar con tecnologías como Java (incluyendo Spring Boot y Java EE), Dart y Flutter para el desarrollo móvil, así como JavaScript (JS) y TypeScript (TS) para aplicaciones web. Además, tengo conocimientos básicos de Python. En trabajando defierentes proyectos grupales en contextos tech y no tech. 
 
