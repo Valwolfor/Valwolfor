@@ -6,4 +6,4 @@ Mi experiencia incluye trabajar con tecnologías como Java (incluyendo Spring Bo
 
 Además de mi interés en la tecnología, me fascina el mundo de la ciberseguridad y estoy constantemente buscando formas de mejorar la seguridad en línea y proteger la privacidad de los usuarios.
 
-¡Estoy emocionado de seguir aprendiendo y colaborando en proyectos emocionantes aquí en GitHub!
+¡Estoy emocionado de seguir aprendiendo y colaborando en nuevos y retadores proyecto!
