@@ -1,9 +1,18 @@
-### Diego Felipe Gallo García 👋
+# Diego Felipe Gallo García 👋
 
-Hola, soy un psicólogo apasionado por la tecnología y el desarrollo de software. A lo largo de mi carrera, he explorado diversas áreas de la informática, desde el desarrollo de aplicaciones web hasta la programación móvil 📱.
+Hello,
 
-Mi experiencia incluye trabajar con tecnologías como **Java** (incluyendo Spring Boot y Java EE), **Dart** y Flutter para el desarrollo móvil, así como **JavaScript** (JS) y **TypeScript** (TS) para aplicaciones web con **Python** en el backend. En trabajando defierentes proyectos grupales en contextos tech y no tech. 
+I am a *psychologist* passionate about technology and software development. Throughout my career, I have explored various areas of computing, from web application development to mobile programming 📱.
 
-Además de mi interés en la tecnología, me fascina el mundo de la ciberseguridad y estoy constantemente buscando formas de mejorar la seguridad en línea y proteger la privacidad de los usuarios.
+My experience includes working with technologies such as **Java** (including Spring Boot and Java EE), **Dart** and Flutter for mobile development, as well as **JavaScript** (JS) and **TypeScript** (TS) for web applications with **Python** for the backend. In working on different group projects in both tech and non-tech contexts. Applying the principles of OOP, SOLID, and Agile practices.
 
-¡Estoy emocionado de seguir aprendiendo y colaborando en nuevos y retadores proyecto!
+Mastery of relational databases like Postgres, MySQL, and non-relational with MongoDB and documentary with Firebase. Also in Linux SO and network configurations. 
+
+In addition to my interest in technology, I am fascinated by the world of cybersecurity and am constantly looking for ways to improve online security and 
+protect user privacy.
+
+I'm excited to continue learning and collaborating on new and challenging projects!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valwolfor&size_weight=0.5&count_weight=0.5)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valwolfor&show_icons=true&theme=dark)
