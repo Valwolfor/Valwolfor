@@ -1,6 +1,6 @@
 # Diego Felipe Gallo García 👋
 
-Hello,
+Hi,
 
 I am a *psychologist* passionate about technology and software development. Throughout my career, I have explored various areas of computing, from web application development to mobile programming 📱.
 
@@ -13,6 +13,9 @@ protect user privacy.
 
 I'm excited to continue learning and collaborating on new and challenging projects!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=valwolfor&size_weight=0.5&count_weight=0.5)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valwolfor&show_icons=true&theme=dark)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=valwolfor&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=valwolfor&count_private=true&layout=compact&langs_count=8&card_width=320&theme=dark" />
+</a>
