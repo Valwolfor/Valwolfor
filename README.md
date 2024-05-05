@@ -4,7 +4,7 @@ Hi,
 
 I am a *psychologist* passionate about technology and software development. Throughout my career, I have explored various areas of computing, from web application development to mobile programming 📱.
 
-My experience includes working with technologies such as **Java** (including Spring Boot and Java EE), **Dart** and Flutter for mobile development, as well as **JavaScript** (JS) and **TypeScript** (TS) for web applications with **Python** for the backend. In working on different group projects in both tech and non-tech contexts. Applying the principles of OOP, SOLID, and Agile practices.
+My experience includes working with technologies such as **Java** (including Spring Boot and Java EE), **Dart** and Flutter for mobile development, as well as **JavaScript** (JS) and **TypeScript** (TS) for web applications with **Python** for the backend. In working on different group projects in both tech and non-tech contexts. Applying the principles of OOP, SOLID, cybersecurity, introducing in AI and Agile practices.
 
 Mastery of relational databases like Postgres, MySQL, and non-relational with MongoDB and documentary with Firebase. Also in Linux SO and network configurations. 
 
